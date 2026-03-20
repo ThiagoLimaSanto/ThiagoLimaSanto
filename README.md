@@ -5,21 +5,21 @@
 Me chamo Thiago Lima Santos, tenho 21 anos e sou natural do Goiás. Atualmente, estou cursando Bacharelato em Ciências da Computação no IfGoiano-Campus Morrinhos. Sou apaixonado por tecnologia, estou com foco em ser desenvolvedor fullStack.
 
 <p align="left">
-    <a href="https://www.instagram.com/tlima7601/">
+    <a href="https://www.instagram.com/tlima7601/" target="_blank">
     <img 
         alt="Meu Instagram" 
         title="Me siga no Instagram" 
         src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/dev-thiago-lima/">
+    <a href="https://www.linkedin.com/in/dev-thiago-lima/" target="_blank">
     <img 
         alt="LinkedIn" 
         title="Meu LinkedIn" 
         src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
     </a>
-    <a href="https://portfolio-thiago-lima.vercel.app/">
+    <a href="https://portfolio-thiago-lima.vercel.app/" target="_blank">
     <img 
         alt="Portfólio" 
         title="Meu Portfólio" 
