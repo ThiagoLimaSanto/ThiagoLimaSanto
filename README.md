@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Thiago Lima Santos, tenho 21 anos e sou natural do Goiás. Atualmente, estou cursando Bacharelato em Ciências da Computação no IfGoiano-Campus Morrinhos. Sou apaixonado por tecnologia, estou com foco em ser desenvolvedor fullStack.
+Me chamo Thiago Lima Santos, tenho 21 anos e sou natural do Goiás. Atualmente, estou cursando Bacharelato em Ciências da Computação no IfGoiano-Campus Morrinhos. Sou apaixonado por tecnologia, estou com foco em ser desenvolvedor.
 
 <p align="left">
     <a href="https://www.instagram.com/tlima7601/">
