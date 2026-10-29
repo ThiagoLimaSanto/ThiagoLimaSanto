@@ -19,12 +19,6 @@ Me chamo Thiago Lima Santos, tenho 21 anos e sou natural do Goiás. Atualmente, 
         src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
     </a>
-    <a href="https://thiago-lima-dev.vercel.app/">
-    <img 
-        alt="Portfólio" 
-        title="Meu Portfólio" 
-        src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white"
-    />
 </a>
 </p>
 
